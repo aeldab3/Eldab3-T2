@@ -330,7 +330,7 @@ header nav .search-icon i {
   padding-bottom: var(--section-padding);
   height: 600px;
   position: relative;
-  background-image: url(/images/1943075.jpg);
+  background-image: url("../images/1943075.jpg");
   background-size: cover;
   display: flex;
   align-items: center;
